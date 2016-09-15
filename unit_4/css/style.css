@@ -1,0 +1,28 @@
+@import (https://fonts.googleapis.com/css?family=Montserrat|PT+Sans);
+
+
+body {
+  text-align: center;
+  background:rgb(217,167,134);
+  background-size: cover;
+  color: #000;
+  font-family: sans-serif;, cursive;
+}
+hr {
+  width: 500px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+  font-family: palatino,georfia, serif;
+  font-size:25px;
+  line-height: 1.5em;
+  margin: 2em;
+}
+  Strong {
+    font-variant: small-caps;
+
+}
