@@ -1,13 +1,19 @@
+@import (https://fonts.googleapis.com/css?family=Montserrat|PT+Sans);
+
+
 body {
   text-align: center;
   background:rgb(217,167,134);
   background-size: cover;
   color: #000;
-  font-family: Helvetica;
+  font-family: Helvetica, bold;
 }
 hr {
   width: 200px;
 }
 p {
-  font-size: 22px;
+  font-family: Arial,serif;
+  font-size:18px;
+  line-height: 1.5em;
+  margin: 2em;
 }
